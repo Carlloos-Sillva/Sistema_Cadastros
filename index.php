@@ -48,38 +48,37 @@
 				  	</ul>
 	            </li>
 	          </ul>
-	        </div><!--/.nav-collapse -->
+	        </div>
 	      </div>
 	    </nav>
 	    <br>
-
 
 	    <div class="container">
 	    	<h1><strong>Hardware & Software INFORMÁTICA</strong></h1>
 	    	<hr>
 
-						<div class="container">
-							<div class="row">
-							    <div class="col-sm-3">
-							     <img src="imagens/logo_tec.png" alt="..." class="rounded-circle" max width="70%">
-							    </div>
-							    <div class="col-sm-9">
-							     
-							    <h2>Técnico Carlos E. Silvao</h2>	
-							     <p>
-								Sou Profissional na área de Tecnologia e também apaixonado por jogos e cinema. <br>
+			<div class="container">
+				<div class="row">
+				    <div class="col-sm-3">
+				     <img src="imagens/logo_tec.png" alt="..." class="rounded-circle" max width="70%">
+				    </div>
+				    <div class="col-sm-9">
+				     
+				    <h2>Técnico Carlos E. Silvao</h2>	
+				     <p>
+					Sou Profissional na área de Tecnologia e também apaixonado por jogos e cinema. <br>
 
-								Conteudos sobre artigos de Hardware e Software.<br>
+					Conteudos sobre artigos de Hardware e Software.<br>
 
-								Bem vindo ao site sobre os conteudos de Hardware e Software corresponde aos componentes físicos do computador e desenvolvimento de sistemas ou seja<br>
+					Bem vindo ao site sobre os conteudos de Hardware e Software corresponde aos componentes físicos do computador e desenvolvimento de sistemas ou seja<br>
 
-								são as peças e aparatos eletrônicos e programas para utilizar no seu dia a dia de trabalho e sua vida social e etc.<br>
+					são as peças e aparatos eletrônicos e programas para utilizar no seu dia a dia de trabalho e sua vida social e etc.<br>
 
-								O software é a parte referente aos sistemas que executam as atividades ou seja, são os programas e aplicativos que fazem com a máquina funcione cada vez melhor.<br>
+					O software é a parte referente aos sistemas que executam as atividades ou seja, são os programas e aplicativos que fazem com a máquina funcione cada vez melhor.<br>
 
-								Hardware e Software e o Universo da Informática é formado por: equipamentos, sistemas, dados e pessoas, esse conteudos explicará os conceitos de hardware e software.</p>
-							</div>
-						 </div>
+					Hardware e Software e o Universo da Informática é formado por: equipamentos, sistemas, dados e pessoas, esse conteudos explicará os conceitos de hardware e software.</p>
+				</div>
+			 </div>
 
 	    </div>
 
@@ -87,7 +86,6 @@
 	    	<hr>
 	    	<footer>
 	    		   		
-
 	    		<blockquote class="blockquote text-center">
   			<h5><strong>Desenvolvido: Técnico Carlos E. Silva <br> WHATSAPP (**) 9****-****</strong></h5>
 				</blockquote>

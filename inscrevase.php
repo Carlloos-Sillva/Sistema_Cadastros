@@ -2,17 +2,13 @@
 <html lang="pt-br">
 	<head>
 		<meta charset="UTF-8">
-
-		<title>Hardware & Software</title>
-		
+		<title>Hardware & Software</title>	
 		<!-- jquery - link cdn -->
 		<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-
 		<!-- bootstrap - link cdn -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 	
 	</head>
-
 	<body>
 
 		<!-- Static navbar -->
@@ -26,8 +22,7 @@
 	            <span class="icon-bar"></span>
 	          </button>
 	          <img src="imagens/logo.png" />
-	        </div>
-	        
+	        </div>        
 	        <div id="navbar" class="navbar-collapse collapse">
 	          <ul class="nav navbar-nav navbar-right">
 	            <li><a href="index.php">Voltar para Página Inicial</a></li>
@@ -36,9 +31,8 @@
 	      </div>
 	    </nav>
 
-
 	    <div class="container">
-	    	
+
 	    	<br /><br />
 
 	    	<div class="col-md-4"></div>
@@ -71,10 +65,8 @@
 
 		</div>
 
-
 	    </div>
 	
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-	
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>	
 	</body>
 </html>
