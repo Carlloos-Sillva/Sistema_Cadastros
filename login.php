@@ -20,10 +20,12 @@
 		?>
 		<br><br>
 		<a href="index.html"> << Voltar para pagina principal</a>
+		
 	</div>
 	<div class="rodape">
 		<h2>Conteudos sobre Hardware e Software !!!</h2><br>
 	</div>
+	
 	<footer>
 		<h6>Todos os direitos e reservados - Técnico Carlos E. Silva</h6>
 	</footer>
